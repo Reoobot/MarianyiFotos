@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Chocolate Cake",
         "description": "A delicious chocolate cake with cream.",
-        "src": "1.jpg"
+        "src": "15.jpg"
     },
     {
         "id": 2,
@@ -20,6 +20,12 @@
     {
         "id": 4,
         "name": "Strawberry Cake",
+        "description": "A fresh strawberry cake with glaze.",
+        "src": "11.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Strawberry Cake II",
         "description": "A fresh strawberry cake with glaze.",
         "src": "17.jpg"
     }
