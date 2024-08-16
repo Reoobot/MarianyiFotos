@@ -3,24 +3,28 @@
         "id": 1,
         "name": "Chocolate Cake",
         "description": "A delicious chocolate cake with cream.",
-        "src": "1.jpg"
+        "price": " 10",
+        "url": "https://reoobot.github.io/MarianyiFotos/2.jpg"
     },
     {
         "id": 2,
         "name": "Strawberry Cake",
         "description": "A fresh strawberry cake with glaze.",
-        "src": "11.jpg"
+        "price": " 70",
+        "url": "https://reoobot.github.io/MarianyiFotos/3.jpg"
     },
     {
         "id": 3,
-        "name": "Chocolate Cake",
+        "name": "Cake",
         "description": "A delicious chocolate cake with cream.",
-        "src": "15.jpg"
+        "price": " 50",
+        "url": "https://reoobot.github.io/MarianyiFotos/1.jpg"
     },
     {
         "id": 4,
         "name": "Strawberry Cake",
         "description": "A fresh strawberry cake with glaze.",
-        "src": "17.jpg"
+        "price": " 20",
+        "url": "https://reoobot.github.io/MarianyiFotos/17.jpg"
     }
 ]
