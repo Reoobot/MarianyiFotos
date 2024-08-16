@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Chocolate Cake",
+        "description": "A delicious chocolate cake with cream.",
+        "src": "1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Strawberry Cake",
+        "description": "A fresh strawberry cake with glaze.",
+        "src": "11.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Chocolate Cake",
+        "description": "A delicious chocolate cake with cream.",
+        "src": "15.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Strawberry Cake",
+        "description": "A fresh strawberry cake with glaze.",
+        "src": "17.jpg"
+    }
+]
